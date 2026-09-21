@@ -10,7 +10,6 @@ using ProductApi.Model;
 public class ProductController : ControllerBase
 {
   private readonly ProductRepository _productRepository;
-
   public ProductController(ProductRepository productRepository)
   {
     _productRepository = productRepository;
