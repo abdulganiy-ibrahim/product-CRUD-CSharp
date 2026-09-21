@@ -32,3 +32,4 @@ C:\C# projects\product-management-mockup\ProductApi\obj\Debug\net10.0\refint\Pro
 C:\C# projects\product-management-mockup\ProductApi\obj\Debug\net10.0\ProductApi.pdb
 C:\C# projects\product-management-mockup\ProductApi\obj\Debug\net10.0\ProductApi.genruntimeconfig.cache
 C:\C# projects\product-management-mockup\ProductApi\obj\Debug\net10.0\ref\ProductApi.dll
+C:\C# projects\product-management-mockup\ProductApi\obj\Debug\net10.0\ProductApi.sourcelink.json
